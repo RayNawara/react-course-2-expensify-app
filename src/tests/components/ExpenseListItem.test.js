@@ -1,6 +1,5 @@
 import React from 'react';
 import { shallow } from 'enzyme';
-import { Link } from 'react-router-dom';
 import ExpenseListItem from '../../components/ExpenseListItem';
 import expenses from '../fixtures/expenses';
 
