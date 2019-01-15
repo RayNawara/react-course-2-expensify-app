@@ -9,7 +9,6 @@ exports[`should render expense list with expenses 1`] = `
     expenses
      totaling 
     $9,434.00
-    .
   </h1>
 </div>
 `;
@@ -23,7 +22,6 @@ exports[`should render expenseWord correctly when there is 1 expense 1`] = `
     expense
      totaling 
     $94,340.01
-    .
   </h1>
 </div>
 `;
